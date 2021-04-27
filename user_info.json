@@ -1,0 +1,9 @@
+{"_id":{"$oid":"6081bb5cf0400dcf2906242b"},"name":"lam"}
+{"_id":{"$oid":"6081bc5e90ad652ee2d9c769"},"email":"lam@gmail.com","fullname":"Nguyen Hoang Lam","password":"12345"}
+{"_id":{"$oid":"6081bd220782c028839d6d6a"},"email":"lam.nguyen171999@hcmute.edu.vn","fullname":"Nguyen Hoang Lam","password":"12345"}
+{"_id":{"$oid":"6081cceafdcd0be4a4ca169e"},"email":"long@gmail.com","fullname":"Nguyen Hoang Long","password":"12345"}
+{"_id":{"$oid":"6081cd57d61242e990fb51a2"},"email":"long_1@gmail.com","fullname":"Nguyen Hoang Long 2","password":"12345"}
+{"_id":{"$oid":"6081cd97d61242e990fb51a3"},"email":"lich@gmail.com","fullname":"Nguyen Hoang Lich","password":"12345"}
+{"_id":{"$oid":"6081cde1d61242e990fb51a4"},"email":"khanh@gmal.com.vn","fullname":"khanh","password":"12345"}
+{"_id":{"$oid":"6083b7eeeed696af274dc0f4"},"email":"tuantran@gmail.com","fullname":"Tran Viet Tuan","password":"123456789"}
+{"_id":{"$oid":"6083b830eed696af274dc0f5"},"email":"tuantran@gmail.com.vn","fullname":"tuan oc cho","password":"12345"}
